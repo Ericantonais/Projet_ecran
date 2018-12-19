@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # projet-ecran
 
 > A Vue.js project
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# Projet_ecran
+>>>>>>> 5b07ef24d09158aba3a8e5860ca8534f16a57aa9
