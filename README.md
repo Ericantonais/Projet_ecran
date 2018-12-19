@@ -1,1 +1,2 @@
-# Projet_ecran
+npm install
+npm run dev
