@@ -12,10 +12,8 @@
 import headerMain from "./component/headerMain/headerMain.vue";
 import menuMain from "./component/menuMain/menuMain.vue";
 export default {
-  name: 'app',
-  data () {
+  data() {
     return {
-      msg: 'Welcome to Your Vue.js App'
     }
   },
   components: {
