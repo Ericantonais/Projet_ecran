@@ -1,4 +1,4 @@
-FROM node:8.9.4-alpine
+FROM node:11.2.0-alpine
 
 # installe un simple serveur http pour servir un contenu statique
 RUN npm install -g http-server
