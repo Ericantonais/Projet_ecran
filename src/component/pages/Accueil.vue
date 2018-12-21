@@ -8,7 +8,7 @@
       </div>
 
       <div class="start_text">
-        <p>Pour commencer, </br> cliquez sur le bouton "Creer une slide".</p>
+        <p>Pour commencer, <br> cliquez sur le bouton "Creer une slide".</p>
 
         <button>Créer une slide</button>
       </div>
@@ -28,7 +28,7 @@
         <div class="corps">
           <p>Vous n'avez pas encore de slide, veuillez cliquer
           sur le bouton <span>"Créer une slide"</span></p>
-          <bouton>Voir mon calendrier</bouton>
+          <button>Voir mon calendrier</button>
         </div>
       </div>
 
@@ -40,7 +40,7 @@
         <div class="corps">
           <p>Vous n'avez pas encore de slide archivée.</p>
 
-          <bouton>Voir mes archives</bouton>
+          <button>Voir mes archives</button>
         </div>
       </div>
 
@@ -58,7 +58,7 @@
 
           <p>Votre e-mail:</p>
           <p>Justine.Db@gmail.com</p>
-          <bouton>Voir mon profil</bouton>
+          <button>Voir mon profil</button>
         </div>
       </div>
 
@@ -76,7 +76,7 @@
           <p>Les formes</p>
           <p>Permet de créer des formes,
           de choisir sa couleur et gerer le contour de celle-ci </p>
-          <bouton>Voir la suite</bouton>
+          <button>Voir la suite</button>
         </div>
       </div>
 
