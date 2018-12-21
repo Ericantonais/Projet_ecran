@@ -9,8 +9,8 @@
 
 
 <script>
-import headerMain from "./component/headerMain/headerMain.vue";
-import menuMain from "./component/menuMain/menuMain.vue";
+import headerMain from "./components/headerMain/headerMain.vue";
+import menuMain from "./components/menuMain/menuMain.vue";
 export default {
   data() {
     return {
