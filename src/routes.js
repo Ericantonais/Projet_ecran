@@ -1,9 +1,9 @@
-import Accueil from "./component/pages/Accueil.vue";
-import Slide from "./component/pages/Slide.vue";
-import Calendrier from "./component/pages/Calendrier.vue";
-import Archives from "./component/pages/Archives.vue";
-import Profil from "./component/pages/Profil.vue";
-import Aide from "./component/pages/Aide.vue";
+import Accueil from "./components/pages/Accueil.vue";
+import Slide from "./components/pages/Slide.vue";
+import Calendrier from "./components/pages/Calendrier.vue";
+import Archives from "./components/pages/Archives.vue";
+import Profil from "./components/pages/Profil.vue";
+import Aide from "./components/pages/Aide.vue";
 
 
 export const routes = [
